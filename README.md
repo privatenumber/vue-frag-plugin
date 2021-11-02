@@ -1,6 +1,6 @@
 # vue-frag-plugin <a href="https://npm.im/vue-frag-plugin"><img src="https://badgen.net/npm/v/vue-frag-plugin"></a> <a href="https://npm.im/vue-frag-plugin"><img src="https://badgen.net/npm/dm/vue-frag-plugin"></a> <a href="https://packagephobia.now.sh/result?p=vue-frag-plugin"><img src="https://packagephobia.now.sh/badge?p=vue-frag-plugin"></a>
 
-Use multiple root nodes in your Vue.js 2 [Single-file Components (SFCs)](https://vuejs.org/v2/guide/single-file-components.html). Powered by [`vue-frag`](https://github.com/privatenumber/vue-frag).
+Webpack/Rollup/Vite plugin to use multiple root nodes in Vue 2 [Single-file Components (SFCs)](https://vuejs.org/v2/guide/single-file-components.html). Powered by [`vue-frag`](https://github.com/privatenumber/vue-frag).
 
 
 ```vue

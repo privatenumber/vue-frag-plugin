@@ -1,8 +1,15 @@
 {
 	"name": "vue-frag-plugin",
 	"version": "0.0.0-semantic-release",
-	"description": "asdf",
-	"keywords": [],
+	"description": "Webpack/Rollup/Vite plugin to use multiple root nodes in Vue 2",
+	"keywords": [
+		"vue-frag",
+		"vue",
+		"fragments",
+		"rollup",
+		"webpack",
+		"vite"
+	],
 	"license": "MIT",
 	"repository": "privatenumber/vue-frag-plugin",
 	"funding": "https://github.com/privatenumber/vue-frag-plugin?sponsor=1",
