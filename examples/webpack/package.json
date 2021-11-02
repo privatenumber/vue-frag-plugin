@@ -1,0 +1,22 @@
+{
+	"name": "@vue-frag-plugin/webpack",
+	"private": true,
+	"version": "0.0.0",
+	"files": [],
+	"scripts": {
+		"build": "webpack --config webpack.config.js --mode production",
+		"serve": "sirv www"
+	},
+	"dependencies": {
+		"vue": "^2.6.14",
+		"vue-frag": "^1.3.1"
+	},
+	"devDependencies": {
+		"sirv-cli": "^1.0.14",
+		"vue-frag-plugin": "link:../..",
+		"vue-loader": "^15.9.8",
+		"vue-template-compiler": "^2.6.14",
+		"webpack": "^5.61.0",
+		"webpack-cli": "^4.9.1"
+	}
+}

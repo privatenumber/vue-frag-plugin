@@ -1,0 +1,19 @@
+{
+	"name": "@vue-frag-plugin/vite",
+	"private": true,
+	"version": "0.0.0",
+	"files": [],
+	"scripts": {
+		"dev": "vite"
+	},
+	"dependencies": {
+		"vue": "^2.6.14",
+		"vue-frag": "^1.3.1"
+	},
+	"devDependencies": {
+		"vite": "^2.6.7",
+		"vite-plugin-vue2": "^1.9.0",
+		"vue-frag-plugin": "link:../..",
+		"vue-template-compiler": "^2.6.14"
+	}
+}
