@@ -5,7 +5,7 @@ Webpack/Rollup/Vite plugin to use multiple root nodes in Vue 2 [Single-file Comp
 
 ```vue
 <template>
-	<!-- No wrapping fragment! -->
+    <!-- No wrapping fragment! -->
     <span>
         Hello
     </span>
